@@ -1,0 +1,9 @@
+Language=ENGLISH;;DANSK
+txtName=Username;;Brugernavn    
+txtPassword=Password;;Adgangskode    
+btnLogin=Login;;Login
+titleLbl=EASV Attendance;;EASV Tilstedeværelse
+logoutMenu=Program;;Program
+logoutMenuItem=Close;;Luk
+lblConnectionYes=You are connected to EASV;;Du har forbindelse til EASV
+lblConnectionNo=You are not connected to EASV and cannot submit attendance;;Du har ikke forbindelse til EASV og kan ikke melde din tilstedeværelse
