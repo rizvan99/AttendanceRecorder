@@ -1,0 +1,2 @@
+# AttendanceRecorder
+School project - Java
